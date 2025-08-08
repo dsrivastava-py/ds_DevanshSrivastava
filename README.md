@@ -16,15 +16,6 @@ This project analyzes how the **Fear & Greed Index** affects **trader behavior a
 
 ---
 
-## 📂 Dataset Download Links
-
-Due to GitHub's upload size limit, the raw datasets are hosted on Google Drive:
-
-- 🔗 [historical_data.csv (45MB)](https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_HERE)
-- 🔗 [fear_greed_index.csv](https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_HERE)
-
----
-
 ## 🛠️ Project Steps
 
 - Cleaned and pre-processed both datasets
@@ -88,8 +79,6 @@ Aspiring Data Scientist | Python Developer | Crypto Enthusiast
 ---
 
 ## ⚠️ Note
-
-👉 Datasets are too large for GitHub upload, so they’ve been hosted on Google Drive for easy access and reproducibility.
 
 All data used is anonymized and for educational/demo purposes only.  
 The project was built as part of a Data Science internship assignment.
